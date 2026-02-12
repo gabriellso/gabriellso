@@ -11,7 +11,7 @@
 - Typescript
 - SQL
 - AWS
-- 
+
 </div>
 
 ---
