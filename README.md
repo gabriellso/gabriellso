@@ -58,12 +58,6 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,github,docker,aws,npm,postman,vercel&theme=dark" alt="PostgreSQL, MongoDB, Supabase, Git, GitHub, Docker, AWS, npm, Postman and Vercel" />
 </p>
 
-## >_ Connect With Me
+## 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/gabriellsoliveira/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.glsoliveira@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellsoliveira/) &nbsp; [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contato.glsoliveira@gmail.com)
