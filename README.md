@@ -60,6 +60,5 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5B700)](https://www.linkedin.com/in/gabriellsoliveira/)
-
-**Email:** `contato.glsoliveira@gmail.com`
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F5B700)](https://www.linkedin.com/in/gabriellsoliveira/)
+![Email](https://img.shields.io/badge/contato.glsoliveira%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=F5B700)
