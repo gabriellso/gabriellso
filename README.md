@@ -60,15 +60,7 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,github,docker,aws,npm,postman,vercel&theme=dark" alt="PostgreSQL, MongoDB, Supabase, Git, GitHub, Docker, AWS, npm, Postman and Vercel" />
 </p>
 
-## Learning & Certifications
-
-- **AWS Certified Cloud Practitioner (CLF-C02)** — In progress
-- **GitHub Foundations** — In progress
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gabriellso&hide_border=false&border=30363D&background=0D1117&ring=F5B700&fire=F5B700&currStreakNum=F5B700&sideNums=C9D1D9&currStreakLabel=F5B700&sideLabels=C9D1D9&dates=8B949E)
-
 ## 🤝 Connect With Me
 
-[GitHub](https://github.com/gabriellso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5B700)](https://www.linkedin.com/in/gabriellsoliveira/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F5B700)](mailto:contato.glsoliveira@gmail.com)
