@@ -57,14 +57,6 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabriellso&hide_border=false&border=30363D&background=0D1117&ring=F5B700&fire=F5B700&currStreakNum=F5B700&sideNums=C9D1D9&currStreakLabel=F5B700&sideLabels=C9D1D9&dates=8B949E)
 
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellso/gabriellso/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellso/gabriellso/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/gabriellso/gabriellso/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## 🤝 Connect With Me
 
 [GitHub](https://github.com/gabriellso)
