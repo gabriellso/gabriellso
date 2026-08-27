@@ -40,30 +40,24 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
 
 ## 🛠️ Technical Stack
 
-### Languages
+### Languages and Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,py&theme=dark" alt="TypeScript and Python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark" alt="JavaScript, TypeScript, HTML, CSS and Python" />
 </p>
 
 `SQL`
 
-### Frontend
+### Frameworks and Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React and Tailwind CSS" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark" alt="FastAPI, PostgreSQL and Supabase" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi&theme=dark" alt="React, Vite, Tailwind CSS and FastAPI" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Git, Docker and Vercel" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,github,docker,aws,npm,postman,vercel&theme=dark" alt="PostgreSQL, MongoDB, Supabase, Git, GitHub, Docker, AWS, npm, Postman and Vercel" />
 </p>
 
 ## Learning & Certifications
