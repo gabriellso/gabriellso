@@ -46,8 +46,6 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark" alt="JavaScript, TypeScript, HTML, CSS and Python" />
 </p>
 
-`SQL`
-
 ### Frameworks and Libraries
 
 <p>
