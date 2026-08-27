@@ -40,13 +40,31 @@ A real-time rank and RR overlay for VALORANT streams, featuring a control dashbo
 
 ## 🛠️ Technical Stack
 
-**Languages:** `TypeScript` · `Python` · `SQL`
+### Languages
 
-**Frontend:** `React` · `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,py&theme=dark" alt="TypeScript and Python" />
+</p>
 
-**Backend & Data:** `FastAPI` · `PostgreSQL` · `Supabase`
+`SQL`
 
-**Tools & Platforms:** `Git` · `Docker` · `Vercel`
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React and Tailwind CSS" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark" alt="FastAPI, PostgreSQL and Supabase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Git, Docker and Vercel" />
+</p>
 
 ## Learning & Certifications
 
