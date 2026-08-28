@@ -18,7 +18,7 @@ Full-stack platform for organizing amateur football games, handling registration
 
 **Key features:** Recurring games · Rating-based team draws · Pix payments
 
-[![Visit Trevo](https://img.shields.io/badge/Visit_Trevo-111111?style=for-the-badge&logo=googlechrome&logoColor=F5B700)](https://jogatrevo.com.br)
+[![Visit Trevo](https://img.shields.io/badge/🍀_VISIT_TREVO-16A34A?style=for-the-badge&labelColor=16A34A)](https://jogatrevo.com.br)
 
 ---
 
