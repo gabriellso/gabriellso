@@ -1,4 +1,4 @@
-![Gabriel Lucas - Software Developer](./assets/banner-github.png)
+![Gabriel Oliveira - Software Developer](./assets/banner-github.png)
 
 # HTTP/1.1 200 OK 👋
 
