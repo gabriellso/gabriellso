@@ -12,23 +12,23 @@ I enjoy turning ideas into real products and building practical, well-structured
 
 ### 🍀 Trevo
 
-A full-stack platform for organizing amateur football games, from public registration and waitlists to recurring schedules, balanced team draws, and payments.
+Full-stack platform for organizing amateur football games, handling registrations, recurring games, team draws and payments.
 
-**Highlights:** Transactional workflows · Recurring games · Rating-based team draw · Pix payments
+`React` `TypeScript` `PostgreSQL` `Supabase` `Tailwind CSS`
 
-**Tech:** React · TypeScript · PostgreSQL · Supabase · Tailwind CSS
+**Key features:** Recurring games · Rating-based team draws · Pix payments
 
-🔒 Private Repository
+[![Visit Trevo](https://img.shields.io/badge/Visit_Trevo-111111?style=for-the-badge&logo=googlechrome&logoColor=F5B700)](https://jogatrevo.com.br)
+
+---
 
 ### 🎯 Valorant Rank Overlay
 
-A real-time rank and RR overlay for VALORANT streams, featuring a control dashboard and an OBS-ready transparent view.
+Real-time VALORANT rank and RR overlay built for streaming, with an OBS-ready transparent view and control dashboard.
 
-**Highlights:** Real-time WebSockets · Transactional rank updates · Animated rank transitions
+`React` `TypeScript` `FastAPI` `PostgreSQL` `WebSockets`
 
-**Tech:** React · TypeScript · FastAPI · PostgreSQL · SQLAlchemy · WebSockets
-
-🔒 Private Repository
+**Key features:** Real-time updates · Animated rank transitions · OBS integration
 
 ## 🛠️ Technical Stack
 
