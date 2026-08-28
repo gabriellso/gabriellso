@@ -6,7 +6,7 @@
 
 I enjoy turning ideas into real products and building practical, well-structured software.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=F5B700&background=00000000&vCenter=true&random=false&width=460&height=28&lines=Software+Developer+%F0%9F%92%BB;Building+real-world+projects+%F0%9F%9A%80;Exploring+Cloud+%26+AWS+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%E2%9A%A1)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=F5B700&background=00000000&vCenter=true&random=false&width=460&height=28&lines=Software+Developer+%F0%9F%92%BB;Building+real-world+projects+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9A%A1)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ## 🚀 Featured Projects
 
