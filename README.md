@@ -8,7 +8,7 @@ I enjoy turning ideas into real products and building practical, well-structured
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=F5B700&background=00000000&vCenter=true&random=false&width=460&height=28&lines=Software+Developer+%F0%9F%92%BB;Building+real-world+projects+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9A%A1)](https://github.com/DenverCoder1/readme-typing-svg)
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 ### 🍀 Trevo
 
@@ -22,7 +22,7 @@ Full-stack platform for organizing amateur football games, handling registration
 
 ---
 
-### 🎯 Valorant Rank Overlay
+### 🎮 Valorant Rank Overlay
 
 Real-time VALORANT rank and RR overlay built for streaming, with an OBS-ready transparent view and control dashboard.
 
@@ -30,7 +30,7 @@ Real-time VALORANT rank and RR overlay built for streaming, with an OBS-ready tr
 
 **Key features:** Real-time updates · Animated rank transitions · OBS integration
 
-## 🛠️ Technical Stack
+## ⚙️ Technical Stack
 
 ### Languages and Technologies
 
