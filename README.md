@@ -22,7 +22,7 @@ Full-stack platform for organizing amateur football games, handling registration
 
 ---
 
-### 🎮 Valorant Rank Overlay
+### 🎮 Tolstream
 
 Real-time VALORANT rank and RR overlay built for streaming, with an OBS-ready transparent view and control dashboard.
 
