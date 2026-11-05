@@ -47,7 +47,7 @@ Real-time VALORANT rank and RR overlay built for streaming, with an OBS-ready tr
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,github,docker,aws,npm,postman,vercel&theme=dark" alt="PostgreSQL, MongoDB, Supabase, Git, GitHub, Docker, AWS, npm, Postman and Vercel" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,docker,aws,npm,postman&theme=dark" alt="PostgreSQL, Git, GitHub, Docker, AWS, npm, Postman" />
 </p>
 
 ## 🔗 Connect With Me
